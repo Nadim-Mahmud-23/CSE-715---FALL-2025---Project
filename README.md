@@ -307,10 +307,10 @@ Where:
 
 ## 👤 Author
 
-**[Your Name]**
+**Nadim Mahmud Dipu**
 - Course: Neural Networks
-- Institution: [Your Institution]
-- Email: [Your Email]
+- Institution: Brac University
+- Email: nadim.mahmud.dipu@g.bracu.ac.bd
 
 ---
 
